@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+#grid {
+    border-collapse: collapse;
+}
+
+#grid td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.winner-cell {
+    background-color: #00850080;
+}
